@@ -15,4 +15,8 @@ public class TestClass {
   public static void testThird(){
     System.out.println("ooooo");
   }
+  
+    public static void testFourth(){
+    System.out.println("wwwww");
+  }
 }
