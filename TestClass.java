@@ -11,4 +11,8 @@ public class TestClass {
   public static void testSecond(){
     System.out.println("pppp");
   }
+
+  public static void testThird(){
+    System.out.println("ooooo");
+  }
 }
